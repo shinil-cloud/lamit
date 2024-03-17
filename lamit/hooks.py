@@ -213,3 +213,12 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"lamit.auth.validate"
 # ]
+
+
+
+fixtures=[
+	{"dt":"Client Script"},
+	{"dt":"Server Script"},
+	{"dt":"Report"},
+
+	]
