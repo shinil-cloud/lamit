@@ -1,0 +1,7 @@
+## Lamit
+
+lam
+
+#### License
+
+MIT
